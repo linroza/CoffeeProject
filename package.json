@@ -1,5 +1,6 @@
 {
-  "name": "10_project_biryani-shop",
+  "name": "Coffee Shop",
+  "homepage": "https://github.com/linroza/CoffeeShop.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
