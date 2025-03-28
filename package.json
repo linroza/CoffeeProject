@@ -1,6 +1,6 @@
 {
-  "name": "CoffeeShop",
-  "homepage": "https://github.com/linroza/CoffeeShop.git",
+  "name": "coffee",
+  "homepage": "https://github.com/linroza/CoffeeProject.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
